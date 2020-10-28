@@ -33,8 +33,8 @@
 * Move to the created app folder twitch-clone<br>
   Run `cd twitch-clone`
 * Copy all .js & .css files from this repository to the twitch-clone folder
-* Copy the Font Awesome CDN, e.g. <link rel='stylesheet' href='https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css'>, to index.html
-* Install Material-UI core to the node modules of the app with `npm`
+* Copy the Font Awesome CDN, e.g. \<link rel='stylesheet' href='https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css'\>, to index.html
+* Install Material-UI core to the node modules of the app with `npm`<br>
   Run `npm i @material-ui/core`
 ## Execution - On Laptop
 * Start the app with `npm`<br>
