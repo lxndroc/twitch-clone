@@ -1,0 +1,76 @@
+/* https://github.com/lxndroc/twitch-clone */
+
+.profile {
+    background-color: #0e0e10;
+}
+
+.profile__top {
+    display: flex;
+    align-items: center;
+}
+
+.profile__topLeft {
+    display: flex;
+    align-items: center;
+    flex: 1;
+}
+
+.profile__topLeft {
+    object-fit: contain;
+    height: 100px;
+    margin: 40px;
+    border: 2px solid #35353a;
+    border-radius: 50%;
+    padding: 3px;
+}
+
+.profile__topRight {
+    font-size: 30px;
+}
+
+.profile__topRight>i {
+    margin: 10px;
+    /* + */
+}
+
+.profile__topRight>graybg {
+    background-color: #35353a;
+}
+
+.profile__menu {
+    display: flex;
+    margin-left: 40px;
+    /* + */
+}
+
+.profile__menu>h2 {
+    /* + */
+}
+
+.profile__menu>h2>i {
+    /* + */
+}
+
+.profile__menu>h2>active {
+    /* + */
+}
+
+.profile__recentItems {
+    /* + */
+}
+
+.profile__recent {
+    /* + */
+}
+
+.profile__categories {
+    /* + */
+}
+
+.profile__categories>h2 {
+    /* + */
+}
+
+.profile__categories>h3 {
+    margin-bottom: 10px;
+}

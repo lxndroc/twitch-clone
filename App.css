@@ -1,0 +1,10 @@
+/* https://github.com/lxndroc/twitch-clone */
+
+* {
+    margin: 0;
+    color: white;
+}
+
+.app__main {
+    display: flex;
+}
